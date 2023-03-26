@@ -1,0 +1,50 @@
+Agile: 	wendbaar, lenig
+
+Scrum: 		in korte tijd snel resultaat hebben, snel duidelijkheid
+		snel communicatie
+		verder bouwen op voortschrijdend inzicht
+
+scope:		lijst van goals en deadlines
+
+sprint:		korte periodes met vaste lengte van 1 tot 4 weken
+		om werkende software op te leveren.
+sprint
+review:		Op het einde van de sprint terug kijken in vergadering
+
+Retrospective:	leerpunten bespreken op het einde van een sprint.
+
+Daily 
+Standup:	Dagelijks kort overlopen
+		wat ga ik doen, wat heb ik gedaan, verwacht ik moeilijkheden
+
+product
+backlog:	verdeeld over sprits, 
+		lijst van geprioritiseerde punten.
+
+sprint
+backlog:	verzamelng van taken die moeten gedaan worden
+		in één sprint.
+
+Waardes van
+Agile:		zelforganisatie
+		vertrouwen
+		iteraties
+		leren & aanpassen
+		focus waarde klant
+
+Agile & scrum
+principes:	Mensen en interactie BOVEN processen en tools
+		Werkende software BOVEN allesomvattende documentatie
+		klant samenwerking BOVEN contractonderhandelingen
+		inspelen op verandering BOVEN volgen van plan
+
+user story: 	wat moet het doen
+		voor wie
+		deze krijgen story points
+		"as a .....
+		I need.....
+		so that...."
+
+
+
+
